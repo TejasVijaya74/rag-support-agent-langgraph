@@ -1,6 +1,8 @@
 # rag-support-agent-langgraph
 
 A Retrieval-Augmented Generation (RAG) based Customer Support Assistant built using LangGraph, ChromaDB, and LLMs.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c4c7f8d3-2bc6-4aa2-9a0a-86b306a7fa2b" />
+
 
 ## Features
 - PDF-based knowledge ingestion
